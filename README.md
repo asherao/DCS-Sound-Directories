@@ -1,5 +1,5 @@
 # DCS-Sounds-Directory
-Can be used to create sound mods.
+Can be used to create sound mods. The sound files in this Git are not actual sound files. They only indicate the name of the sound file.
 For example, the full path file structure for a sound mod for the Main Menu Music would look like this:
 - C:/Users/UserName/Saved Games/DCS/
   - **mods**/Resource/MH Rise Intro Mod/**Entry.lua**

@@ -12,5 +12,5 @@ You can obtain an **entry.lua** here: `C:/DCS-Install-Location/DCS World OpenBet
 Pelase read `C:/DCS-Install-Location/DCS World OpenBeta/Doc/Sounds/readme.txt` for more info.
 
 Known Working Mods:
-- Ground Crew
-- Main Menu
+- Ground Crew. E.g.: `Saved Games\DCS.openbeta\mods\Resource\DCS Cow Chief Mod\Sounds\Speech\ENG\Common\Ground Crew\Messages\clear.wav`
+- Main Menu. E.g.: `Saved Games\DCS.openbeta\mods\Resource\MH Rise Intro Mod\Sounds\EditorMusic\Default MainMenuLoop.ogg`

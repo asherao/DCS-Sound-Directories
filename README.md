@@ -14,4 +14,5 @@ Pelase read `C:/DCS-Install-Location/DCS World OpenBeta/Doc/Sounds/readme.txt` f
 Known Working Mods:
 - Ground Crew. E.g.: `Saved Games\DCS.openbeta\mods\Resource\DCS Cow Chief Mod\Sounds\Speech\ENG\Common\Ground Crew\Messages\clear.wav`
 - Main Menu. E.g.: `Saved Games\DCS.openbeta\mods\Resource\MH Rise Intro Mod\Sounds\EditorMusic\Default MainMenuLoop.ogg`
-- ATC. E.g.: `\Saved Games\DCS.openbeta\mods\Resource\Female ATC Literally Everywhere\Sounds\Speech\RUS\Common\ATC\1\Callsign\Boar.wav`
+- ATC. E.g.: `Saved Games\DCS.openbeta\mods\Resource\Female ATC Literally Everywhere\Sounds\Speech\RUS\Common\ATC\1\Callsign\Boar.wav`
+- AWACS E.g.: `Saved Games\DCS\Mods\Resource\AWACS HOT HOT HOT Mod\Sounds\Speech\ENG\Common\AWACS\hot.wav`
